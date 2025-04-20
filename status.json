@@ -1,4 +1,4 @@
 {
-  "app_available": true,
-  "message": "Ứng dụng đang hoạt động bình thường"
+  "app_available": false,
+  "message": "Ứng dụng đã tạm ngừng cung cấp"
 }
